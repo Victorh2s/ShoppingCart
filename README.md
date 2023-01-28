@@ -1,9 +1,8 @@
 # ShoppingCart!
 
 
-##  ShoppingCart
+## Carrinho de compras realizado durante as aulas do bootcamp Ignite da Rocketseat.
 
-Carrinho de compras realizado durante as aulas do bootcamp Ignite da Rocketseat.
 
 ### Exemplo  
 
