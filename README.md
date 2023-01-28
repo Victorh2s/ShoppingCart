@@ -6,7 +6,8 @@
 
 ### Exemplo  
 
-[ShoppingCart](https://user-images.githubusercontent.com/92759987/215234695-ef604619-f37d-4521-87df-82f74ee3f192.gif)
+![ShoppingCart](https://user-images.githubusercontent.com/92759987/215234957-2be9413b-1a30-4d04-8e44-9d6033da7eb9.gif)
+
 
 
 #### 🚀 Tecnologias usadas
